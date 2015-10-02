@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Custom.UnityAutoMoq</id>
+        <version>2.1.1.2</version>
+        <title>Unity Auto Mocking container</title>
+        <authors>Sergey Azarkevich</authors>
+        <owners>Sergey Azarkevich,Thomas Pedersen</owners>
+        <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
+        <projectUrl>https://github.com/azarkevich/UnityAutoMoq</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>The Unity Auto Moq container allows developers to write maintainable Unit Tests in a productive manner.
+
+http://www.dotnetcurry.com/showarticle.aspx?ID=767
+
+http://thedersen.com/blog/2011/02/21/auto-mocking-with-unity-and-moq/</description>
+        <summary>A mocking container that allows you to write maintainable and productive Unit Tests with Moq and Unity DI container.</summary>
+        <releaseNotes>Upgraded to .NET 4.0
+Signed</releaseNotes>
+    <dependencies>
+      <dependency id="Unity" version="2.1.505.0" />
+      <dependency id="Moq" version="4.1.1311.0615" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="bin\Release\UnityAutoMoq.dll" target="lib\net35" />
+  </files>
+</package>
