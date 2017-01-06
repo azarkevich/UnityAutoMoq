@@ -1,6 +1,8 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityAutoMoq.Tests", "UnityAutoMoq.Tests\UnityAutoMoq.Tests.csproj", "{72D98508-6E3B-4ADF-95F1-B03A0CA81F87}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityAutoMoq", "UnityAutoMoq\UnityAutoMoq.csproj", "{3FF285B9-7D50-4192-BE06-C3C64EF484FD}"
