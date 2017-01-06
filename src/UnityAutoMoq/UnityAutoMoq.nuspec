@@ -4,8 +4,8 @@
     <id>Custom.UnityAutoMoq</id>
         <version>2.2.0.0</version>
         <title>Unity Auto Mocking container</title>
-        <authors>Sergey Azarkevich</authors>
-        <owners>Sergey Azarkevich,Thomas Pedersen</owners>
+        <authors>Sergey Azarkevich,Henadz Linevich,Thomas Pedersen</authors>
+        <owners>Sergey Azarkevich</owners>
         <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
         <projectUrl>https://github.com/azarkevich/UnityAutoMoq</projectUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
